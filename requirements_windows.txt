@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pillow
+numpy
+matplotlib
+torch
+torchvision
+segmentation-models-pytorch
+timm
